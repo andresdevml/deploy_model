@@ -16,4 +16,4 @@ La api fue programada en el script _**server.py**_. En el mismo se programa la r
 
 # Request 🫴
 
-Para probar el correcto funcionamiento de la api, se codifica en el script _**server.py**_, una petición a la api y se verifica que el resultado obtenido sea el correcto.  
+Para probar el correcto funcionamiento de la api, se codifica en el script _**request.py**_, una petición a la api y se verifica que el resultado obtenido sea el correcto.  
