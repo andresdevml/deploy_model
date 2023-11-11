@@ -1,6 +1,6 @@
-# Despliegue de modelo ML mediante REST API  🧑‍💻
+# Despliegue de modelo ML mediante API REST  🧑‍💻
 
-Uno de los aspectos fundamentales del desarrollo de modelos predictivos, es colocar a disposición este modelo para un servicio. En este caso lo haremos mediante la programación de una API implementada con Flask. 
+Uno de los aspectos fundamentales del desarrollo de modelos predictivos, es colocar a disposición este modelo para un servicio. En este caso lo haremos mediante la programación de una API REST implementada con Flask. 
 
 # Herramientas  🛠️
 
