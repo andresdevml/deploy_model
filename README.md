@@ -12,7 +12,7 @@ Uno de los aspectos fundamentales del desarrollo de modelos predictivos, es colo
 
 # Server 👂
 
-La API fue programada en el script _**server.py**_. En el mismo se programa la respuestas de la API ante una petición. En caso de ser necesario también se agrega el Dockerfile para desplegar la api desde un contenedor. 
+La API fue programada en el script _**server.py**_. En caso de ser necesario también se agrega el Dockerfile para desplegar la API desde un contenedor. 
 
 # Request 🫴
 
